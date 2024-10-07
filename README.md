@@ -60,6 +60,11 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+![Screenshot 2024-10-07 111249](https://github.com/user-attachments/assets/e8dcb5bc-abe2-40fe-9317-68172413d92c)
+![Screenshot 2024-10-07 111300](https://github.com/user-attachments/assets/0865542e-28f5-4ced-8cab-4fc0b257ac1a)
+![Screenshot 2024-10-07 111310](https://github.com/user-attachments/assets/6fac809b-1f0e-4713-969d-5b3610a085ce)
+![Screenshot 2024-10-07 111330](https://github.com/user-attachments/assets/3d349036-75ba-411c-9196-c10782baafb6)
+
 
 
 
